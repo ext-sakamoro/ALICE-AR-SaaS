@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_AR
+name: alice-ar
 description: ALICE AR
 type: application
 version: 0.1.0
